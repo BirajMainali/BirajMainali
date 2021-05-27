@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=birajmainali&label=Profile%20views&color=0e75b6&style=flat" alt="birajmainali" /> </p>
 
-<div style="margin-right:auto;">
+<div style="display: inline; margin:auto;">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birajmainali&show_icons=true&locale=en&layout=compact" alt="birajmainali" /></p>
 
