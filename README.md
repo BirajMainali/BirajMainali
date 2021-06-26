@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **birajmainali10@gmail.com**
 
-- 📄 Know about my experiences [birajmainali.com.np](birajmainali.com.np)
+- 📄 Know about my experiences birajmainali.com.np
 
 - ⚡ Fun fact **[1 + 1] = 2**
 
