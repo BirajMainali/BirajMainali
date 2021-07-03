@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biraj Mainali</h1>
 <h3 align="center">A passionate Full Stack Web developer from Nepal</h3>
 
-- 💬 Ask me about **vue,Vuex,.Net,ef-core,Selenium,SQL**
+- 💬 Ask me about **C#, .Net Core, Ef Core, Dapper, Vuejs, Vuex , WebAutomation (Cypress, Selenium), T-SQL**
 
 - 📫 How to reach me **birajmainali10@gmail.com**
 
