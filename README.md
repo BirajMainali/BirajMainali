@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BirajMainali
+- 👋 Hi, I’m Biraj Mainali
 - 👀 I’m interested in .Net & js Technologies
 - 🌱 I’m currently free for Contrubution
 - 📫 How to reach me birajmainali10@gmail.com
