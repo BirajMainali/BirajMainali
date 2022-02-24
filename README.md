@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Biraj Mainali
+- 👋 Hi, I’m Biraj Mainali, Software developer from nepal
 - 👀 I’m interested in .Net & js Technologies
 - 🌱 I’m currently free for contrubution
 - 📫 How to reach me birajmainali10@gmail.com
