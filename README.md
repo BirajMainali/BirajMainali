@@ -5,7 +5,7 @@
 ---
 
 ### Projects
-
+- [own-shell-in-rust](https://github.com/BirajMainali/codecrafters-shell-rust): A POSIX-compliant shell implementation in Rust.
 - [react-agent](https://github.com/BirajMainali/react-agent) : Autonomous AI coding assistant in Rust.
 - [sql-llm](https://github.com/BirajMainali/sql-llm) : Natural language to SQL with Gen AI.
 - [monad-load-balancer](https://github.com/BirajMainali/monad-load-balancer) : Adaptive Rust load balancer.
